@@ -1,0 +1,31 @@
+Landmark,0001,Viking Triangle
+Landmark,0002,Reginalds Tower
+Landmark,0003,Waterford Crystal
+Landmark,0004,WIT
+Landmark,0005,Peoples Park
+Landmark,0006,Greenway Bike Trail
+Landmark,0007,Apple Market
+Landmark,0008,Clock Tower
+Landmark,0009,Trinity Cathedral
+Road,R01,Lower Quay,5
+Road,R02,Parnell St,7
+Road,R03,Willams St,8
+Road,R04,Cork Rd,30
+Road,R05,Upper Quay,20
+Road,R06,Market Road,10
+Road,R07,Lower Square Rd,15
+Road,R08,Upper Square Road,5
+Road,R09,Main Street,9
+Link,0001,R01,R07,R05
+Link,0002,R01,R02
+Link,0003,R02,R03,R04,R06
+Link,0005,R03
+Link,0004,R04
+Link,0006,R05
+Link,0007,R06,R09
+Link,0008,R07
+Link,0009,R08,R09
+
+
+
+Landmark,0010,Tramore
